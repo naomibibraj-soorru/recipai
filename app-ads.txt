@@ -1,0 +1,12 @@
+# app-ads.txt for Recipai
+# Developer: Naomi Sherin
+# IAB Tech Lab app-ads.txt v1.1 compliant
+# Last updated: May 2026
+
+# ── Authorized seller ────
+google.com, pub-5470452512888518, DIRECT, f08c47fec0942fa0
+
+# ── Owner and manager domain declarations (IAB v1.1) ─────────────
+# Required for full supply chain transparency
+OWNERDOMAIN=https://storage.googleapis.com/sooru_app/
+MANAGERDOMAIN=admob.google.com
