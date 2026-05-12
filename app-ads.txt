@@ -8,5 +8,5 @@ google.com, pub-5470452512888518, DIRECT, f08c47fec0942fa0
 
 # ── Owner and manager domain declarations (IAB v1.1) ─────────────
 # Required for full supply chain transparency
-OWNERDOMAIN=https://naomibibraj-soorru.github.io/recipai/
-MANAGERDOMAIN=admob.google.com
+OWNERDOMAIN=naomibibraj-soorru.github.io
+
